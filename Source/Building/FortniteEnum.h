@@ -9,6 +9,14 @@
 /**
  * 
  */
+
+UENUM()
+enum class EState
+{
+	Shield,
+	Health
+};
+
 UCLASS()
 class BUILDING_API UFortniteEnum : public UObject
 {
