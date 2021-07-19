@@ -14,4 +14,5 @@ class BUILDING_API UStatusBarWidget : public UUserWidget
 {
 	GENERATED_BODY()
 	
+		
 };
